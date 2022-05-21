@@ -1,0 +1,49 @@
+
+body{
+background-color:rgb(219, 231, 227);
+
+}
+
+h1{
+    color:rgb(3, 3, 3);
+    text-align: center;
+}
+.DaviJogos {
+
+    color: black;
+    flex-grow: 3;
+    font-weight: bolder;
+
+}
+
+.home{
+ 
+    flex-grow: 1;
+    color: rgb(15, 12, 12);
+    font-weight: bolder;
+    padding: 20px;
+}
+.sobre{
+
+    flex-grow: 1;
+    color: black;
+    font-weight: bolder;
+}
+.contato{
+  
+  flex-grow: 1;
+  color: black;
+  font-weight: bolder;
+}
+
+header{
+    width: 100vw;
+    background-color: #d4caca;
+    display: flex;
+    flex-grow: 2;
+}
+.header{
+    display: flex;
+    padding: 20px;
+}
+
